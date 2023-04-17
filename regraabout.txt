@@ -1,0 +1,7 @@
+4 div
+div 1 = header,h1, form com id, 
+div 2 = input com id, buton
+fechou div 2 , form e p,
+div 3 = input, button, id fechou div 3
+button fechou form
+div 4  fecha 4 e fecha 2 
